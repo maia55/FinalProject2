@@ -3,7 +3,6 @@
 **Team Name: Right Outside Philly**
 
 **Team Members**
-
 Maia Harmon - msh108@pitt.edu
 
 Kaityln Shin - 
@@ -14,9 +13,7 @@ Jay Patel -
 
 **Our final project is about finding the best place to move in case of a zombie apocalypse using 3 datasets from the WPRDC website.** 
 
-We decided to do the metric .... 
-
-Our datasets are parks, bridges, and populati 
+We decided to do the metric .... Our datasets are parks, bridges, and population. Basic Explaination
 
 Maia - parks https://data.wprdc.org/dataset/parks1 
 
