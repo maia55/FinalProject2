@@ -15,7 +15,7 @@ Jay Patel -
 
 We decided to do the metric .... Our datasets are parks, bridges, and population. Basic Explaination
 
-Maia - parks https://data.wprdc.org/dataset/parks1 
+Maia - parks https://data.wprdc.org/dataset/parks 
 
 Kaitlyn - Pittsburgh City Bridges https://data.wprdc.org/datastore/dump/23f675e5-f745-49c1-8fa0-c5bc35c25184
 
