@@ -6,7 +6,7 @@
 
 Maia Harmon - msh108@pitt.edu
 
-Kaityln Shin - 
+Kaityln Shin - kos20@pitt.edu
 
 Jay Patel - 
 
