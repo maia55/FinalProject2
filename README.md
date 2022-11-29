@@ -3,6 +3,7 @@
 **Team Name: Right Outside Philly**
 
 **Team Members**
+
 Maia Harmon - msh108@pitt.edu
 
 Kaityln Shin - 
