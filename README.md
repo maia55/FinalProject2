@@ -25,3 +25,6 @@ Jay - Neighborhood Population
 https://data.wprdc.org/dataset/2020-census-redistricting-data-extracts/resource/a8414ed5-c50f-417e-bb67-82b734660da6
 
 https://data.wprdc.org/dataset/2020-census-redistricting-data-extracts/resource/fb2cb765-458c-4deb-8252-0a18d7ce9a78
+
+Conclusion-
+I found out that my data set concluded by finding that the west end was the perfect neighborhood for a zombie apocalypse. The population was the lowest in all of my data findings. And In this case, it is the best place to hide and avoid zombies. I did not find the results of my group members' neighborhood selection. 
