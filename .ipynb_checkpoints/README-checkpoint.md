@@ -2,7 +2,7 @@
 
 **Team Name: Right Outside Philly**
 
-**Team Members**
+**Team Members: **
 
 Maia Harmon - msh108@pitt.edu
 
